@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 ### Olá!
 Meu nome é Renan, sou Carioca e tenho 35 anos.
+<br/>
 Minha vida profissional sempre girou em torno de Infra/Suporte de TI, mas, recentemente resolvi me aventurar no mundo da programação e estou entrando aos poucos no mundo Front End.
+<br/>
 Atualmente faço um curso "completo" sobre Front End, muito focado em JS.
 Bem vindo ao meu portfólio!
 
@@ -31,7 +33,7 @@ Bem vindo ao meu portfólio!
 ### Próximos passos:
 ![enter image description here](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![enter image description here](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![enter image description here](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![enter image description here](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)<br/>
 ![enter image description here](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 <hr/>
 
