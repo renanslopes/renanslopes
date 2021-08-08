@@ -15,29 +15,30 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Olá!
-Meu nome é Renan, sou Carioca e tenho 35 anos.
+Meu nome é Renan, sou Carioca e tenho 35 anos. 👴🏼
 <br/>
 Minha vida profissional sempre girou em torno de Infra/Suporte de TI, mas, recentemente resolvi me aventurar no mundo da programação e estou entrando aos poucos no mundo Front End.
 <br/>
 Atualmente faço um curso "completo" sobre Front End, muito focado em JS.
+<br/>
 Bem vindo ao meu portfólio!
 
 <hr/>
 
-### Aprendendo no momento:
+🧠### Aprendendo no momento:
 ![enter image description here](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![enter image description here](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![enter image description here](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 <hr/>
 
-### Próximos passos:
+🚀### Próximos passos:
 ![enter image description here](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![enter image description here](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![enter image description here](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![enter image description here](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 <hr/>
 
-### Contato:
+👋🏻### Contato:
 Quer trocar uma ideia? Trocar experiências? Estudar? É só entrar em contato!
 
 <a href="https://api.whatsapp.com/send?phone=5521974838314&text=Fala%20comigo">![enter image description here](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
@@ -47,7 +48,7 @@ Quer trocar uma ideia? Trocar experiências? Estudar? É só entrar em contato!
 
 <hr/>
 
-### X1?
+⚔️### X1?
 <a href="https://account.xbox.com/en-us/profile?gamertag=GmrErre86">![enter image description here](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)</a>
 
 
