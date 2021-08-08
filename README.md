@@ -14,12 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Olá!
-Meu nome é Renan, sou Carioca e tenho 35 anos. 👴🏼
+No momento fazendo um excelente curso de Front End, muito focado em JS, mas com ênfase em várias tecnologias.
 <br/>
-Minha vida profissional sempre girou em torno de Infra/Suporte de TI, mas, recentemente resolvi me aventurar no mundo da programação e estou entrando aos poucos no mundo Front End.
-<br/>
-Atualmente faço um curso "completo" sobre Front End, muito focado em JS.
+Aqui registrarei minha evolução nesse incrível mundo do desenvolvimento.
 <br/>
 Bem vindo ao meu portfólio!
 
@@ -32,8 +29,13 @@ Bem vindo ao meu portfólio!
 <hr/>
 
 ### 🚀 Próximos passos:
+![enter image description here](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![enter image description here](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![enter image description here](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![enter image description here](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![enter image description here](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![enter image description here](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![enter image description here](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![enter image description here](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![enter image description here](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 <hr/>
@@ -50,7 +52,6 @@ Quer trocar uma ideia? Trocar experiências? Estudar? É só entrar em contato!
 
 ### ⚔️ X1?
 <a href="https://account.xbox.com/en-us/profile?gamertag=GmrErre86">![enter image description here](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)</a>
-
 
 
 
