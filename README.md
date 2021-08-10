@@ -14,10 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-No momento fazendo um excelente curso de Front End, muito focado em JS, mas com ênfase em várias tecnologias.
-<br/>
+Atualmente fazendo um excelente curso de Front End focado em JS, incluindo alguns de seus framewroks mais conhecidos.
+
+Segue o link para o curso disponibilizado na Udemy: [Curso Web Moderno Completo com JavaScript 2021 + Projetos ](https://www.udemy.com/course/curso-web/ "Criado por Leonardo Moura Leitão e Cod3r Cursos Online").
+
 Aqui registrarei minha evolução nesse incrível mundo do desenvolvimento.
-<br/>
+
 Bem vindo ao meu portfólio!
 
 <hr/>
