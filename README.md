@@ -22,15 +22,19 @@ Aqui registrarei minha evolução nesse incrível mundo do desenvolvimento.
 
 Bem vindo ao meu portfólio!
 
+![Hackerman](https://media.giphy.com/media/MM0Jrc8BHKx3y/giphy.gif "Hackerman")
+
 <hr/>
 
 ### 🧠 Aprendendo no momento:
+
 ![enter image description here](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![enter image description here](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![enter image description here](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 <hr/>
 
 ### 🚀 Próximos passos:
+
 ![enter image description here](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![enter image description here](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![enter image description here](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -43,6 +47,7 @@ Bem vindo ao meu portfólio!
 <hr/>
 
  ### 👋 Contato:
+ 
 Quer trocar uma ideia? Trocar experiências? Estudar? É só entrar em contato!
 
 <a href="https://api.whatsapp.com/send?phone=5521974838314&text=Fala%20comigo">![enter image description here](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
@@ -53,6 +58,7 @@ Quer trocar uma ideia? Trocar experiências? Estudar? É só entrar em contato!
 <hr/>
 
 ### ⚔️ X1?
+
 <a href="https://account.xbox.com/en-us/profile?gamertag=GmrErre86">![enter image description here](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)</a>
 
 
