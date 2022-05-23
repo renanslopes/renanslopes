@@ -14,17 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Atualmente fazendo um excelente curso de Front End focado em JS, incluindo alguns de seus framewroks mais conhecidos.
+Meu nome é Renan Lopes, entusiasta e apaixonado por tecnologia.
 
-Segue o link para o curso disponibilizado na Udemy: [Curso Web Moderno Completo com JavaScript 2021 + Projetos ](https://www.udemy.com/course/curso-web/ "Criado por Leonardo Moura Leitão e Cod3r Cursos Online").
+Este é o meu repositorio e contém todos os meus devaneios no mundo do HTML + CSS + Javascript (e afins).
 
-Aqui registrarei minha evolução nesse incrível mundo do desenvolvimento.
 
-Bem vindo ao meu portfólio!
+### Cursos que estou fazendo nomento:
+
+- [Curso Web Moderno Completo com JavaScript 2021 + Projetos ](https://www.udemy.com/course/curso-web/ "Criado por Leonardo Moura Leitão e Cod3r Cursos Online")
+
+- [Bootcamp Dio Spread Fullstack Developer](https://www.dio.me/ "Bootcamp Digital Innovation One Spread Fullstack Developer")
+
+
 
 ![Hackerman](https://media.giphy.com/media/MM0Jrc8BHKx3y/giphy.gif "Hackerman")
 
 <hr/>
+
+<!--
 
 ### 🧠 Aprendendo no momento:
 
@@ -44,16 +51,24 @@ Bem vindo ao meu portfólio!
 ![enter image description here](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![enter image description here](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![enter image description here](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
 <hr/>
+-->
 
  ### 👋 Contato:
  
 Quer trocar uma ideia? Trocar experiências? Estudar? É só entrar em contato!
 
 <a href="https://api.whatsapp.com/send?phone=5521974838314&text=Fala%20comigo">![enter image description here](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
+
 <a href="https://www.linkedin.com/in/renanslopes/">![enter image description here](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
+<!--
 <a href="https://www.facebook.com/renanlopes.face">![enter image description here](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
+
 <a href="https://www.instagram.com/renanl0pes/">![enter image description here](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
+-->
+
 
 <hr/>
 
