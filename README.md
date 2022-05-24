@@ -21,7 +21,7 @@ Este é o meu repositorio e contém todos os meus devaneios no mundo do HTML + C
 
 ### Cursos que estou fazendo nomento:
 
-- [Curso Web Moderno Completo com JavaScript 2021 + Projetos ](https://www.udemy.com/course/curso-web/ "Criado por Leonardo Moura Leitão e Cod3r Cursos Online")
+- [Curso de JavaScript e TypeScript do básico ao avançado 2022]([https://www.udemy.com/course/curso-web/](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/) "Curso de JavaScript e TypeScript do básico ao avançado 2022")
 
 - [Bootcamp Dio Spread Fullstack Developer](https://www.dio.me/ "Bootcamp Digital Innovation One Spread Fullstack Developer")
 
