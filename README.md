@@ -21,7 +21,7 @@ Este é o meu repositorio e contém todos os meus devaneios no mundo do HTML + C
 
 ### Cursos que estou fazendo nomento:
 
-- [Curso de JavaScript e TypeScript do básico ao avançado 2022]([https://www.udemy.com/course/curso-web/](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/) "Curso de JavaScript e TypeScript do básico ao avançado 2022")
+- [Curso de JavaScript e TypeScript do básico ao avançado 2022]([https://www.udemy.com/course/curso-web/](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/ "Curso de JavaScript e TypeScript do básico ao avançado 2022")
 
 - [Bootcamp Dio Spread Fullstack Developer](https://www.dio.me/ "Bootcamp Digital Innovation One Spread Fullstack Developer")
 
