@@ -57,9 +57,9 @@ Este é o meu repositorio e contém todos os meus devaneios no mundo do HTML + C
  
 Quer trocar uma ideia? Trocar experiências? Estudar? É só entrar em contato!
 
-<a href="https://api.whatsapp.com/send?phone=5521974838314&text=Fala%20comigo">![enter image description here](https://github.com/renanslopes/imagens/blob/master/main/pngegg%20mini.png?raw=true)</a>
+<a href="https://api.whatsapp.com/send?phone=5521974838314&text=Fala%20comigo">![enter image description here](https://github.com/renanslopes/imagens/blob/master/main/whats_m.png?raw=true)</a>
 
-<a href="https://www.linkedin.com/in/renanslopes/">![enter image description here](https://github.com/renanslopes/imagens/blob/master/main/linkedin_mini.png?raw=true)</a>
+<a href="https://www.linkedin.com/in/renanslopes/">![enter image description here](https://github.com/renanslopes/imagens/blob/master/main/linkedin_m.png?raw=true)</a>
 
 <!--
 <a href="https://www.facebook.com/renanlopes.face">![enter image description here](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
@@ -72,7 +72,7 @@ Quer trocar uma ideia? Trocar experiências? Estudar? É só entrar em contato!
 
 ### ⚔️ X1?
 
-<a href="https://account.xbox.com/en-us/profile?gamertag=GmrErre86">![enter image description here](https://github.com/renanslopes/imagens/blob/master/main/xbox_mini.png?raw=true)</a>
+<a href="https://account.xbox.com/en-us/profile?gamertag=GmrErre86">![enter image description here](https://github.com/renanslopes/imagens/blob/master/main/xbox_m.png?raw=true)</a>
 
 
 
