@@ -21,9 +21,7 @@ Este é o meu repositorio e contém todos os meus devaneios no mundo do HTML + C
 
 ### Cursos que estou fazendo nomento:
 
-- [Curso de JavaScript e TypeScript do básico ao avançado 2022](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/ "Curso de JavaScript e TypeScript do básico ao avançado 2022")
-
-- [Bootcamp Dio Spread Fullstack Developer](https://www.dio.me/ "Bootcamp Digital Innovation One Spread Fullstack Developer")
+- [Curso Node.js do zero a maestrie com diversos projetos](https://www.udemy.com/course/nodejs-do-zero-a-maestria-com-diversos-projetos/ "Node.js do zero a maestrie com diversos projetos")
 
 
 
@@ -59,9 +57,9 @@ Este é o meu repositorio e contém todos os meus devaneios no mundo do HTML + C
  
 Quer trocar uma ideia? Trocar experiências? Estudar? É só entrar em contato!
 
-<a href="https://api.whatsapp.com/send?phone=5521974838314&text=Fala%20comigo">![enter image description here](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
+<a href="https://api.whatsapp.com/send?phone=5521974838314&text=Fala%20comigo">![enter image description here](https://github.com/renanslopes/imagens/blob/master/main/pngegg%20mini.png?raw=true)</a>
 
-<a href="https://www.linkedin.com/in/renanslopes/">![enter image description here](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/renanslopes/">![enter image description here](https://github.com/renanslopes/imagens/blob/master/main/linkedin_mini.png?raw=true)</a>
 
 <!--
 <a href="https://www.facebook.com/renanlopes.face">![enter image description here](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
@@ -74,7 +72,7 @@ Quer trocar uma ideia? Trocar experiências? Estudar? É só entrar em contato!
 
 ### ⚔️ X1?
 
-<a href="https://account.xbox.com/en-us/profile?gamertag=GmrErre86">![enter image description here](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)</a>
+<a href="https://account.xbox.com/en-us/profile?gamertag=GmrErre86">![enter image description here](https://github.com/renanslopes/imagens/blob/master/main/xbox_mini.png?raw=true)</a>
 
 
 
