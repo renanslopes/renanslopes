@@ -4,9 +4,19 @@
 
 ### Olá! Meu nome é Renan Lopes,<br/> Analista de Qualidade de Software (QA).
 
-Meu humilde repositorio é formado por meus estudos na área de teste de software,<br/>assim como meus devaneios em programação (Javascript).
+⟡ Sou profissional de TI com um amplo background,
+<br/>tendo atuando como analista de suporte e como analista de sistemas.
+<br/><br/>
+⟡ Recentemente pude migrar de área e atuar como
+<br/>Analista de Qualidade de Software.
+<br/><br/>
+⟡ Toda minha trajetória profissiona e meu perfil completo
+<br/>podem ser vistos no meu <a href="https://www.linkedin.com/in/renanslopes/">"linkedinho"</a> 👌
+<br/><br/>
+⟡ Meu humilde repositorio é formado por meus estudos na área de teste de software,<br/>assim como meus devaneios em programação (Javascript).
+<br/>
 
-#### Possuo experiência em:
+#### ⮞ Como Analista de Qualidade de Software pude desenvolver as seguintes habilidades:
 
 ```SQL
 - Testes manuais, funcionais e regressivos;
@@ -18,117 +28,38 @@ Meu humilde repositorio é formado por meus estudos na área de teste de softwar
 - Metodologias ágeis (Scrum, Kanban, SAFe);
 - Docker
 ```
-
+⟡ Continuo aperfeiçoando meus skills de testes de software através de cursos livres e mentoria. 🧠
+<br/><br/>
+⟡ Atualmente focando os estudos em automação em Cypress e reforçando os conhecimentos nos Fundamentos de Teste de Software
 <br/>
-Para ver meu perfil completo, basta visitar meu <a href="https://www.linkedin.com/in/renanslopes/">"linkedinho"</a> 👌
-
-<hr/>
-
-<br/>
-<br/>
-🧠 Constantemente aperfeiçoando meus skills de testes de software através de cursos livres e mentoria.
-
+> ### "A prátiva leva a perfeição"
 <br/>
 
-> "A prátiva leva a perfeição"
+#### ⮞ Demais tecnologias que conheço:
 
-<br/>
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+[![Jekyll](https://a11ybadges.com/badge?logo=jekyll)](https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<br/><br/>
 
-Sinta-se à vontade em entrar em contato:
-<br/>
-
+#### ⮞ Sinta-se à vontade para em entrar em contato:
 <a href="https://api.whatsapp.com/send?phone=5521974838314&text=Fala%20comigo"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/renanslopes/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 
-<!-- Continuamente me aperfeiçoando na área de QA através de cursos e mentoria.-->
 
- <!--<h3>👦🏻 Um pouco sobre mim</h3>
- <p width="300px" align="center">
-  Analista de qualidade de software com experiência em:
-  <br/>
-  testes manuais; funcionais; regressivos; automação em Cypress; escrita em gherkin; Azure DevOps; metodologias ágeis (Scrum, Kanban, SAFe);
- </p> -->
-
-<!--### 👦🏻 Um pequeno resumo sobre mim:
-
-> Profissional de TI com mais de uma década de experiência nas áreas de suporte e análise de sistemas.
-> Atualmente componente de um squad de desenvolvimento atuando como Analista de Qualidade de Software (QA),
-> e integrando um projeto de otimização dos processos de qualidade: reescrita de casos de testes (Gherkin);
-> automação de testes; formulação de indicadores do time de Qualidade.
-<br/> -->
 
 <!--
-|  ![Mortrha - Godzilla](https://github.com/renanslopes/imagens/blob/master/readme_main/mothra.gif?raw=true) |  Profissional de TI com mais de uma década de experiência<br/>nas áreas de suporte e análise de sistemas. <br/> Atualmente componente de um squad de desenvolvimento<br/>atuando como Analista de Qualidade de<br/>Software (QA),<br/>e integrando um projeto de otimização<br/>dos processos de qualidade:<br/>reescrita de casos de testes (Gherkin);<br/>automação de testes;<br/>formulação de indicadores do time de Qualidade. |
-|---|:--|
--->
-
-
-
-
-<!-- ![Mortrha - Godzilla](https://github.com/renanslopes/imagens/blob/master/readme_main/mothra.gif?raw=true) -->
-
-
-
-
-<!--```Javascript
-
-import Tester from "renanslopes";
-
-class SobreMim extends Tester {
-  nome = "Renan Lopes";
-  area = "Analista de Qualidade de Software";
-  trabalho = "Open to Work"
-}
-
-class Skills extends Tester {
-  linguagens = ["javascript"];
-  frameworks = ["cypress"];
-  ferramentas = ["vscode", "cucumber"];
-  agilidade = ["scrum", "kanban", "SAFe"]
-}
-
-class TesterSkills extends Tester {
-   habilidades:["plano de testes"]
-}
-
-```
--->
-
-<!--Informações completas no meu <a href="https://www.linkedin.com/in/renanslopes/">"linkedinho"</a>-->
-
-<!--```Javascript
-const renan_lopes = {
-    pronouns: 'he',
-    code: ['Javascript', 'TypeScript', 'Markdown'],
-    database: ['MySql', 'Microsoft SQL Server'],
-    askMeAbout: ['tech', 'geek', 'gym', 'workout', 'study', 'fitness'],
-    outhers: ['git', 'npm', 'test case', 'gherkin', 'cucumber'],
-    technologies: {
-        frontEndTest: {
-            web: ['cypress'],
-        },
-        backEnd: {
-            js: ['node.js'],
-            api: ['Postman', 'cypress']
-        },
-        os: ['windows', 'linux'],
-	virtualization: ['Docker'],
-        locatorStrategies:['xpath', 'css selector', 'id'],
-        ides: ['vs code'],
-        cicd: ['github actions'],
-        managementTools: ['trello', 'azure', 'jira'],
-        agileMethodologies: ['Kanban', 'Scrum', 'waterfall', 'safe']
-    }
-};
-```-->
-
-<!--
-![enter image description here](https://github.com/renanslopes/imagens/blob/master/main/linkedin_m.png?raw=true)
--->
-
-<!--
-
 ### 🧠 Aprendendo no momento:
 
 
