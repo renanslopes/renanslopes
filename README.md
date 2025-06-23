@@ -30,14 +30,34 @@
 - Metodologias ágeis (Scrum, Kanban, SAFe, iRUP);
 - Docker
 ```
-⟡ Continuo aperfeiçoando meus skills de testes de software através de cursos e mentoria:
-<br/>
-- MBA em Gestão de Qualidade de Software - UNOPAR
-- Engenheiro de Qualidade de Software - EBAC
-- Mentoria The Circle
+
+<details>
+ <summary><h4>Tecnologias x Repositórios:</h4></summary>
+ <details>
+  <summary>Cypress</summary>
+  <details>
+   <summary>Interface</summary>
+  </details>
+  <details>
+   <summary>API</summary>
+  </details>
+ </details>
+
+  <details>
+  <summary>Robot</summary>
+  <details>
+   <summary>Interface</summary>
+  </details>
+  <details>
+   <summary>API</summary>
+  </details>
+ </details>
+</details>
+
+
 <br/>
 
-#### ⮞ Demais tecnologias que conheço:
+#### ⮞ Tecnologias que conheço:
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
