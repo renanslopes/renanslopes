@@ -22,8 +22,9 @@
 ```SQL
 - Testes manuais, funcionais e regressivos;
 - Criação de planos e casos de teste;
-- Automação em Cypress;
+- Automação em Cypress (Interface e API);
 - Page Objects;
+- Automação em Robot (Interface e API);
 - Git;
 - Gherkin;
 - Azure DevOps;
@@ -32,29 +33,37 @@
 ```
 
 <details>
- <summary><h4>Tecnologias x Repositórios:</h4></summary>
+ <summary><h4>Tecnologias x Repositórios:</h4>
+ <em>Um pequeno índice das minhas atividades 🔍</em>
+ </summary>
+ </br>
  <details>
-  <summary>Cypress</summary>
+  <summary><strong>Cypress 🇨🇾</strong></summary>
   <details>
-   <summary>Interface</summary>
-   
-   [Curso EBAC - Eng. de Qual. de Software - E2E Exercício 01](https://github.com/renanslopes/ebac_engenheiro_qualidade_software/tree/main/Modulo_11_12_Cypress_UI_01/exercicio_final/teste-e2e-ebac)
+   <summary>Interface 🖥️</summary>
+
+   - [Curso EBAC - Eng. de Qual. de Software - E2E Exercício 01](https://github.com/renanslopes/ebac_engenheiro_qualidade_software/tree/main/Modulo_11_12_Cypress_UI_01/exercicio_final/teste-e2e-ebac)
   </details>
+  </br>
   <details>
-   <summary>API</summary>
-   [Curso EBAC - Eng. de Qual. de Software - Exercício](https://github.com/renanslopes/ebac_engenheiro_qualidade_software/tree/main/Modulo_14_Cypress_API/exercicio_final/teste-api-ebac-main)
+   <summary>API ♆</summary>
+
+   - [Curso EBAC - Eng. de Qual. de Software - Exercício](https://github.com/renanslopes/ebac_engenheiro_qualidade_software/tree/main/Modulo_14_Cypress_API/exercicio_final/teste-api-ebac-main)
   </details>
  </details>
+</br>
+  <details>
+  <summary><strong>Robot 🤖</strong></summary>
+  <details>
+   <summary>Interface 🖥️</summary>
 
-  <details>
-  <summary>Robot</summary>
-  <details>
-   <summary>Interface</summary>
-   [Curso Udemy - Robot Framework - Básico - Exerrício](https://github.com/renanslopes/curso_robot_basico_udemy/tree/main/Web_Testing)
+   - [Curso Udemy - Robot Framework - Básico - Exerrício](https://github.com/renanslopes/curso_robot_basico_udemy/tree/main/Web_Testing)
   </details>
+  </br>
   <details>
-   <summary>API</summary>
-   [Curso Udemy - Robot Frameowrk - Básico - Exercício](https://github.com/renanslopes/curso_robot_basico_udemy/tree/main/ApiTesting/Exercicio)
+   <summary>API ♆</summary>
+
+   - [Curso Udemy - Robot Frameowrk - Básico - Exercício](https://github.com/renanslopes/curso_robot_basico_udemy/tree/main/ApiTesting/Exercicio)
   </details>
  </details>
 </details>
