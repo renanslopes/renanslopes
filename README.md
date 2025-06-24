@@ -34,7 +34,8 @@
 
 <details>
  <summary><h4>Tecnologias x Repositórios:</h4>
- <em>Um pequeno índice das minhas atividades 🔍</em>
+ </br>
+ <em>Um pequeno índice das minhas atividades 👆🏻</em>
  </summary>
  </br>
  <details>
