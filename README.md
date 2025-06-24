@@ -37,9 +37,12 @@
   <summary>Cypress</summary>
   <details>
    <summary>Interface</summary>
+   
+   [Curso EBAC - Eng. de Qual. de Software - E2E Exercício 01](https://github.com/renanslopes/ebac_engenheiro_qualidade_software/tree/main/Modulo_11_12_Cypress_UI_01/exercicio_final/teste-e2e-ebac)
   </details>
   <details>
    <summary>API</summary>
+   [Curso EBAC - Eng. de Qual. de Software - Exercício](https://github.com/renanslopes/ebac_engenheiro_qualidade_software/tree/main/Modulo_14_Cypress_API/exercicio_final/teste-api-ebac-main)
   </details>
  </details>
 
@@ -47,9 +50,11 @@
   <summary>Robot</summary>
   <details>
    <summary>Interface</summary>
+   [Curso Udemy - Robot Framework - Básico - Exerrício](https://github.com/renanslopes/curso_robot_basico_udemy/tree/main/Web_Testing)
   </details>
   <details>
    <summary>API</summary>
+   [Curso Udemy - Robot Frameowrk - Básico - Exercício](https://github.com/renanslopes/curso_robot_basico_udemy/tree/main/ApiTesting/Exercicio)
   </details>
  </details>
 </details>
